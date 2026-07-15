@@ -58,3 +58,16 @@ npm run dev
 MediOps was developed to explore how software can improve hospital workforce coordination by providing a centralized platform for staffing, scheduling, and operational decision-making.
 
 The application demonstrates frontend architecture, state management with React Context API, protected routing, reusable components, and responsive interface design while modeling real-world healthcare operations.
+
+## Future Improvements
+
+MediOps was designed as a simulation of hospital workforce management. Future development could expand it into a production-ready platform with features such as:
+
+- Authentication backed by a real database instead of simulated users
+- Backend API for managing employees, departments, and staffing requests
+- Real-time updates using WebSockets for live staffing changes
+- Shift scheduling and optimization based on employee availability and certifications
+- Automated staffing recommendations using AI and historical workforce data
+- Email and SMS notifications for open shifts and emergency staffing requests
+- Role-based permissions for administrators, department managers, and employees
+
